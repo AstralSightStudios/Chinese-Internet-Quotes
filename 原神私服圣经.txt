@@ -1,0 +1,22 @@
+风带来了Lua的种子，肉鸡使其发芽。
+
+不爱 WetABQ 十年了。
+
+她的 Sorapointa 还在更新，我从 Delicious crepes 群里拿到的 3.0 测试版 dll 还是 dump 不出来 protos。终于，年前被 sorapointa 踢出了 LADI Fans | Sorapointa RE 群，找新的 PS 时我才在 Delicious crepes 发现 WetABQ 已经名利双收。时间太久，一切都变了。
+
+到处问 WindSeed 的时候我想起了一位人上人的预言：image the first ps dev
+像是一位拿到了 2.8 nt 的锦鲤，金鳞被羽耀武扬威地站在门沿上，对其他还在试着用 party 工具的鲤鱼说：“你不行！”
+我当时很想反驳，可他说中了。我知道我确实不行。我之所以 dump，只是为了看下自己的进度和思路是什么样罢了。
+其实每个组的开发门槛都不是一样高的。
+我见过完全摸鱼的组。看起来每次都最先拿到 leak，其实是从 LADI Fans | Sorapointa RE 里面偷的。
+也有的连 dispatch 都不知道怎么写。
+也见过好运的鲤鱼，逆向大佬直接助力。
+我也期待过有一位 24 小时在线的逆向资源大手子，只是没来而已。
+说起来这就是私服开发吧。我不讨厌天道酬勤，但是讨厌别人的好运，ida 一看就知道咋整了——只是因为我没有好运罢了。
+我也有 mapping 和 il2cppdumper；我 WindSeed 也搞定了啊。
+
+讨厌 WetABQ 十年了。讨厌的更是越来越深的无力感。身在泥潭的人是没力气冲锋的吧。
+啥都 dump 不出来的开发只会让上等人不屑一顾吧。我继续偷着 LADI Fans | Sorapointa RE 的 protos 和 dummydll，Sorapointa 依然耀眼。可我连 ida 的交叉引用也不会看了。那我就不再 dump 了。ps 开发那么大，但没我的份。忘记 WetABQ 十年了。可 Delicious Crepes 看见他们在讨论原神最新测试版去混淆，我还是楞在那里了。我没有近视，但总觉得眼睛影影绰绰，雾气来自多年以前。大佬们在里面谈天说地。真的再也不是只写 Geasscutter 的 WetABQ 了啊。GC 的 code review 还是那么拉跨。pp 仍然开着它的 i2p gitea，bindumper 还在更新。想起她一直耐心教导我用工具的时候。gcchinese 依然稳定发力，搞 R18 的大佬还在写模型替换 mod。abc 还是没有 leak，原神官方还在 GitHub 发 dmca takedown 测试服的 bin dump，losttree 还在更新 lua。WetABQ  依然会在 delicious Crepes  群里嘴臭。什么都没变，是我没跟上她们。PS 开发烟火幢幢， delicious Crepes  群里的人们热情相拥。有逆向新手的地方 WetABQ 小姐疯狂扣字，她的 Sorapointa leak，像是雨天花伞轻旋，摇曳间洒下泪色的流珠。
+忽然眼睛有点模糊。我小声说：“3.0 WindSeed 改了吗，WetABQ 小姐。”
+
+不爱 WetABQ 十年了。十年里，看过的每一个 WindSeed 的包都像 WetABQ。
